@@ -1,0 +1,5 @@
+surya-ocr>=0.15.0
+torch
+datasets
+transformers
+accelerate
