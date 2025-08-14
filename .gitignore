@@ -33,6 +33,9 @@ det_model_improved/
 *.ckpt
 *.pkl
 
+# Surya library (already in git submodule or separate repo)
+surya/
+
 # Data files
 data/
 *.zip
